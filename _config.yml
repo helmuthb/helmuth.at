@@ -1,0 +1,12 @@
+# Site settings
+title: HelmuthB
+email: me@helmuth.at
+description: > # this means to ignore newlines until "baseurl:"
+  Full Stack Developer
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://helmuth.at" # the base hostname & protocol for your site
+twitter_username: helmuthb
+github_username:  helmuthb
+
+# Build settings
+markdown: kramdown
