@@ -1,6 +1,6 @@
 ---
 title: HelmuthB
-timezone: UTC
+timezone: Europe/Vienna
 collections:
   posts:
     title: Posts
@@ -9,10 +9,8 @@ collections:
     title: Uploads
     output: true
 email: me@helmuth.at
-description: 'Full Stack Developer
-
-'
-baseurl: ''
+description: Full Stack Developer
+baseurl: 
 url: https://helmuth.at
 twitter_username: helmuthb
 github_username: helmuthb
