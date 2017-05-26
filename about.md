@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 My name is Helmuth and I am a full stack developer.
