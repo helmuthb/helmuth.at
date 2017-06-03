@@ -15,5 +15,9 @@ url: https://helmuth.at
 twitter_username: helmuthb
 github_username: helmuthb
 markdown: kramdown
+sass:
+  style: compressed
+jekyll-minifier:
+  compress_css: false
 gems:
   - jekyll-minifier
