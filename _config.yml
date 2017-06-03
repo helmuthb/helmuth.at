@@ -20,4 +20,4 @@ sass:
 jekyll-minifier:
   compress_css: false
 gems:
-  - jekyll-minifier
+- jekyll-minifier
