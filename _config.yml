@@ -1,5 +1,5 @@
 ---
-title: HelmuthB
+title: Helmuth @
 timezone: Europe/Vienna
 collections:
   posts:
@@ -19,5 +19,8 @@ sass:
   style: compressed
 jekyll-minifier:
   compress_css: false
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
 gems:
 - jekyll-minifier
+- jekyll-extlinks

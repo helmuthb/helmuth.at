@@ -21,6 +21,9 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-extlinks (0.0.3)
+      jekyll (~> 3.0)
+      nokogiri (~> 1.6)
     jekyll-minifier (0.1.2)
       cssminify2 (~> 2.0)
       htmlcompressor (~> 0.3)
@@ -59,6 +62,7 @@ PLATFORMS
 DEPENDENCIES
   fastimage
   jekyll
+  jekyll-extlinks
   jekyll-minifier
   nokogiri
 
