@@ -20,7 +20,9 @@ sass:
 jekyll-minifier:
   compress_css: false
 extlinks:
-  attributes: {rel: nofollow, target: _blank}
+  attributes:
+    rel: nofollow
+    target: _blank
 gems:
 - jekyll-minifier
 - jekyll-extlinks
