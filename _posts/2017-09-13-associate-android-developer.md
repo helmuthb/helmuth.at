@@ -114,15 +114,13 @@ You should have a _basic_ knowledge and some existing development experience for
 The level of knowlegde and experience needed is really basic.
 As mentioned, you have the Internet for looking up details, but you should know the concepts and have done some work with them before.
 
-Good Luck!
-==========
+Should you Take It?
+===================
 
-Should you make it?
 If you want to work as an Android Developer it is definitely a valuable part for your CV.
-As usual with all certificates, it is not everything.
 It shows some basic knowledge and experience, and since it is from Google it will easily receive recognition with potential employers.
 
-Other things you can and should do is to add some Android projects on your GitHub profile.
+Other things you can (and should) do is to add some Android projects on your GitHub profile.
 And having one or two apps on the Google Play Store is never wrong.
 
 _Good Luck!_
