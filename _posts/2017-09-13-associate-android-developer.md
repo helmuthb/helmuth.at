@@ -14,14 +14,14 @@ I'm collecting my experience with it - what it is, how it works, and how you can
 What it is
 ==========
 
-As Google describes it on their introduction video:
-> An achievement available to those who can display the skills of an entry-level Android developer.
-
 <amp-youtube width="480"
   height="270"
   layout="responsive"
   data-videoid="fUM9g4j5Q_o">
 </amp-youtube>
+
+As Google describes it on their introduction video:
+> An achievement available to those who can display the skills of an entry-level Android developer.
 
 The certificate is a _performance-based certification_, meaning that
 you have to perform real Android development work for passing the
@@ -41,7 +41,14 @@ A few days after submitting your solution you will be invited to make an appoint
 Expect some questions about the project you did, the difficult parts it contained, and some generic Android development related questions.
 In essence they want to double-check that it was _you_ who has worked on the submission, and that you do have a basic knowledge about the structure of Android development.
 
-Before the Exam
+What you will need
+------------------
+
+* 149 USD (for the exam fee)
+* a government-issued photo ID (_student or work ID is not accepted_)
+* a Gmail or G-Suite email address
+
+Before the exam
 ---------------
 
 As the first step, you will have to pay for the exam. It currently costs 149 US$, and includes up to three attempts.
@@ -52,7 +59,7 @@ _Usually_ - in my case they had some technical issues and I had to wait a week b
 The exam is actually taken by [Udacity](https://www.udacity.com), so don't be surprised to be paying to and downloading the exam from Udacity and not a Google website.
 This makes sense, as Udacity has already some extensive infrastructure for evaluating and grading code submissions by students, parts of which they could use for the Google certification.
 
-During the Exam
+During the exam
 ---------------
 
 They start off with an invented scenario - your colleague who started on the app had to leave the team, and within 24 hours you should finish it now.
@@ -71,7 +78,7 @@ From the time you start the exam you have 24 hours to submit your work. There wo
 
 Don't worry too much about the time given. Depending on your experience you will probably finish within 8 hours or much less.
 
-Exit Interview
+Exit interview
 --------------
 
 A few days after you submitted you should receive an email that it has been graded, and hopefully an invitation to take the exit interview.
@@ -88,8 +95,8 @@ The interview itself takes about 15 minutes.
 It started with asking me about details of the application for the exam and my experience, and then went on with very generic Android development related questions.
 All questions were very easy and with some Android development experience you should feel at ease answering them.
 
-Your Certificate
-----------------
+The certificate
+---------------
 
 After the interview you will be told that you did it and that you can expect your certificate in a separate email, usually within one week. As of today I am still waiting for the certificate itself, it should arrive early next week.
 
@@ -99,7 +106,7 @@ However, you won't receive anything tangible. It's all bits and bytes on the Int
 
 The certificate is valid for three years. After that you would have to re-take it, to show that you are up-to-date with modern Android development trends.
 
-Questions & Content
+Questions & content
 ===================
 
 You should have a _basic_ knowledge and some existing development experience for the following areas:
@@ -114,7 +121,7 @@ You should have a _basic_ knowledge and some existing development experience for
 The level of knowlegde and experience needed is really basic.
 As mentioned, you have the Internet for looking up details, but you should know the concepts and have done some work with them before.
 
-Should you Take It?
+Should you take it?
 ===================
 
 If you want to work as an Android Developer it is definitely a valuable part for your CV.
